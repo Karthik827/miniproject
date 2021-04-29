@@ -1,0 +1,28 @@
+body{
+    background:url(https://images.unsplash.com/photo-1596831535147-475d135763bb?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2VhJTIwYmVhY2h8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container .jumbotron{
+    margin-top: 200px;
+    background: orangered;
+    color: white;
+    font-family: 'Dela Gothic One', cursive;
+}
+table,tr,td,thead,th{
+    border: 2px solid black;
+    font-size: 30px;
+    color: white;
+    background:chocolate;
+    margin:auto;
+}
+thead,th{
+    border: 2px solid black;
+    font-size: 30px;
+    color: white;
+    background:yellow;
+    margin:auto;
+}
+h1{
+    text-align: center;
+}
